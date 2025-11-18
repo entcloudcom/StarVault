@@ -36,7 +36,7 @@
 ## Key Features
 
 * Free to use. (Sources NOT opened currently)
-* About 50MB only
+* About 50MB nearly
 * Privacy focused
 * All data stored locally
 * Work in offline mode except syncing stars from github
@@ -46,7 +46,8 @@
 * Pre-configurated filter by commonly used languages
 * Dark/Light mode
 * Cross platform
-  - Windows, macOS ready. Linux coming soon.
+  - Windows, macOS ready
+  - Linux coming soon
 
 ## How to use
 
@@ -57,16 +58,16 @@
 4. Click `Sync Stars` button in top-right corner.
 5. Click sync button multi times until all starred repositories synced due to limits of Github API
 
-### Filtering
+### Filtering Syntax
 After syncing starred respositories from github, repositories can be found easily by change filters. Here are some examples of filtering syntax.
 
 * `shadcn`  # wildcard filtering
 * `owner:wailsapp` # filter by owner
 * `topics:react` # filter by topics
-* `stars_count:>100` # filter by stars count more than 100
-* `forks_count:>100` # filter by forks count more than 100
-* `open_issues_count:<10` # filter by open issues count less than 10
-* `shadcn topics:react topics:nextjs stars_count:>100 open_issues_count:<10` # composed filter
+* `stars_count:>100` # filter by stars count which more than 100
+* `forks_count:>100` # filter by forks count which more than 100
+* `open_issues_count:<10` # filter by open issues count which less than 10
+* `shadcn topics:react topics:nextjs stars_count:>100 open_issues_count:<10` # composed filtering
 
 ## Download
 
