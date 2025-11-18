@@ -55,8 +55,9 @@
 1. Generate a new Github <a href="https://github.com/settings/personal-access-tokens/new" target="_blank">personal access token</a>
 2. Fill personal access token in StarVault.(`Peference` -> `Settings` -> `Account`)
 3. Go to `General` -> `All`
-4. Click `Sync Stars` button in top-right corner.
-5. Click sync button multi times until all starred repositories synced due to limits of Github API
+4. Click the right menu button in top-right corner.
+5. Click sync menu item.
+6. You can click sync menu item multi times after each syncing done until all your starred repositories been synced all.
 
 ### Filtering Syntax
 After syncing starred respositories from github, repositories can be found easily by change filters. Here are some examples of filtering syntax.
